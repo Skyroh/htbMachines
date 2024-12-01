@@ -1,6 +1,6 @@
 # htbMachines
 Herramienta realizada en Bash para buscar las máquinas en HTB donde te proporcionen una información sobre estas.
-La base de datos donde se sacan las máquinas pertenece a @S4vitar "(https://github.com/s4vitar)".
+La base de datos donde se sacan las máquinas pertenece a @S4vitar "(https://github.com/s4vitar)" fichero "bundle.js" .
 
 <h3>INSTALACIÓN</h1>
 <ul>
